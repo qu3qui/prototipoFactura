@@ -25,7 +25,7 @@ public class TestPersona {
         persona.setTelefono("319319");
         persona.setCedula("2345");
         BaseDatosUtils.crearPersona(persona);
-        
+ 
     }
     
 }
