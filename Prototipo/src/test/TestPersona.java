@@ -28,8 +28,4 @@ public class TestPersona {
         
     }
     
-    public static void funcionPrueba(){
-        System.out.println("Hola mundo");
-    }
-    
 }
